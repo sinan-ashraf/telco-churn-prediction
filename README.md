@@ -38,5 +38,5 @@ This repository contains a **Jupyter Notebook** that demonstrates a complete end
 ## 🚀 How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telco-churn-prediction.git
+   git clone https://github.com/sinan-ashraf/telco-churn-prediction.git
    cd telco-churn-prediction
